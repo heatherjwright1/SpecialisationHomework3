@@ -45,3 +45,5 @@ print(process_queue('input_file.txt'))
 # 25 x 1 = 25 bytes for the strings, stored by the list(deque) function. 
 
 # The space complexity of the program is O(n) where n is the number of names stored in the input_file.txt file. 
+
+# Marks (15/15)
