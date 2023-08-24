@@ -56,3 +56,7 @@ while True:
 # The same goes for the space complexity. The variables used are constant, because the maximum number of elements added to options = [] is constant. 
 
 # Therefore, the space complexity is also O(1) because it is not determined by the input size. 
+
+#Marks (8/15)
+# Instead of using if else conditions you can use a dictionary to store the url and options as key value pairs. This will improve the efficiency of your program.
+# You can make your solution simpler by using a data structure like a 'list' to add URLs using 'append' and remove them using 'pop'.
