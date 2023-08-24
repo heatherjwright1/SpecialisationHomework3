@@ -9,3 +9,5 @@ print("number(5) =", number(5))
 print("number10) =", number(10)) 
 
 # The function is recursive because it calls itself within the function by decreasing the value of n until n becomes 1.
+
+# Marks (12/12)
